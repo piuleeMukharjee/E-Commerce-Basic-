@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "stock": 10,
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 2999,
+    "category": "Electronics",
+    "stock": 8,
+    "image": "assets/images/watch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Fashion",
+    "stock": 5,
+    "image": "assets/images/shoes.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 1499,
+    "category": "Accessories",
+    "stock": 12,
+    "image": "assets/images/backpack.jpg"
+  }
+]
